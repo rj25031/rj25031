@@ -1,32 +1,93 @@
-# Hello, World! 👋
+<h1 align="center">Hey 👋, I'm Rupesh Jadhav</h1>
+<h3 align="center">Full Stack Developer | AI/ML Engineer | Blockchain Innovator</h3>
 
-I'm Rupesh, a passionate full-stack developer with a love for coding and a knack for strategic thinking through chess. Welcome to my GitHub profile!
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupesh-jadhav-9b8a31259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rupeshjadhav200211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rj25031">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-## About Me
+---
 
-- 🚀 I'm a full-stack developer who loves creating web applications and solving complex problems.
-- ♟️ Chess enthusiast who enjoys the game for its strategic depth and as a mental exercise.
-- 💻 My coding journey began with Code with Harry, a YouTube channel that sparked my interest.
-- 🌐 I'm always eager to learn new technologies and improve my skills.
-- 📚 Currently, I'm diving into Data Science and Machine Learning.
+### 🧑‍💻 About Me
 
-## Tech Stack
+🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
+💼 Currently interning as **Full Stack Developer** (Blockchain + MERN + PHP)  
+🔭 Building decentralized apps, AI-powered systems, and full stack platforms  
+🏆 Hackathon Winner @ MegaHack 2024 (2nd Place)  
 
-Here are some of the technologies I frequently work with:
+---
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Version Control: Git
+### 🧠 Skills
 
-## Chess
+- **Frontend:** React.js, Tailwind CSS, Bootstrap, TypeScript, Redux  
+- **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs  
+- **Database:** MongoDB, MySQL  
+- **AI/ML:** Python, OpenCV, TensorFlow, PyTorch, Transformers, HuggingFace, NLP  
+- **Blockchain:** Solana, Ethereum, Rust, Solidity, Web3.js, IPFS  
+- **Tools:** Git, Postman, XAMPP, Docker, VS Code, Jupyter, Anaconda  
 
-Chess is more than just a game to me; it's a way to sharpen my mind and unwind. You can find me on [Chess.com](https://www.chess.com/member/rupesh_jadhav), where my username is `rupesh_jadhav`. Let's play a game or discuss chess-related topics!
+---
 
-## Contact Me
+### 🛠 Projects Worth Exploring
 
-- 📧 You can reach me via email at [rupeshjadhav200211@gmail.com](mailto:rupeshjadhav200211@gmail.com).
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/rupesh-jadhav-9b8a31259/).
-- 🐦 Follow me on [Twitter](https://twitter.com/rj25031?t=0x0-gY2lSIDpl1odN1K4Qw&s=09).
+#### ⚡ [Raydium DEX Clone](https://github.com/rj25031)  
+A Solana-based DEX with smart contracts written in Rust using the Anchor framework. Features wallet integration, custom token handling, minting, metadata, and a powerful React frontend.
 
-Let's connect, collaborate, and make some cool projects together! 😄
+#### 🧠 [Blockchain-Powered Face Recognition System](https://github.com/rj25031)  
+Face recognition using OpenCV, storing encrypted face hashes on-chain (Solana + IPFS) for secure access control and identity verification.
+
+#### 🤖 [PsycheCounselAI - LLM Mental Health Chatbot](https://github.com/rj25031)  
+AI-based MERN web app offering mental health support with ChatGPT-style LLM integration. Provides smart, empathetic dialogues and secured user experience.
+
+#### 🎙 [AI Virtual Assistant using Rasa](https://github.com/rj25031)  
+Voice-controlled smart assistant built with Rasa, Python, TTS, and speech recognition. Handles commands, automation, search, and interactive Q&A.
+
+---
+
+### 🚀 Certifications & Learning
+
+- Full Stack Web Development Bootcamp  
+- Solana Smart Contract Development with Anchor  
+- 100 Days of Machine Learning  
+- Deep Learning Fundamentals  
+- Python Data Analysis  
+
+---
+
+### 🏆 Achievements
+
+- 🥈 **2nd Place – MegaHack 2024**  
+  IoT energy meter system with blockchain-based payments
+
+- 🥉 **3rd Position – XZIBIT 2023**  
+  Smart energy tracking & automated billing platform
+
+---
+
+### 📌 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rj25031&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj25031&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+I merge AI with Blockchain because I believe **"Intelligence must be trustworthy"** 🔐✨
+
+---
+
+📬 Let’s connect and collaborate:  
+👉 [LinkedIn](https://www.linkedin.com/in/rupesh-jadhav-9b8a31259/) | 📧 rupeshjadhav200211@gmail.com
+
+---
+
