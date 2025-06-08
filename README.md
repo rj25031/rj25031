@@ -43,10 +43,10 @@ A Solana-based DEX with smart contracts written in Rust using the Anchor framewo
 #### 🧠 [Blockchain-Powered Face Recognition System](https://github.com/rj25031)  
 Face recognition using OpenCV, storing encrypted face hashes on-chain (Solana + IPFS) for secure access control and identity verification.
 
-#### 🤖 [PsycheCounselAI - LLM Mental Health Chatbot](https://github.com/rj25031)  
+#### 🤖 [PsycheCounselAI - LLM Mental Health Chatbot](https://github.com/rj25031/PsycheCounselAI---LLM-Mental-Health-Chatbot)  
 AI-based MERN web app offering mental health support with ChatGPT-style LLM integration. Provides smart, empathetic dialogues and secured user experience.
 
-#### 🎙 [AI Virtual Assistant using Rasa](https://github.com/rj25031)  
+#### 🎙 [AI Virtual Assistant using Rasa](https://github.com/rj25031/RasaWindowsAssistant)  
 Voice-controlled smart assistant built with Rasa, Python, TTS, and speech recognition. Handles commands, automation, search, and interactive Q&A.
 
 ---
