@@ -20,7 +20,7 @@
 🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
 💼 Currently interning as **Full Stack Developer** (Blockchain + MERN + PHP)  
 🔭 Building decentralized apps, AI-powered systems, and full stack platforms  
-🏆 Hackathon Winner @ MegaHack 2024 (2nd Place)  
+🏆 Hackathon Winner @ MegaHack - A National Level Hackathon 2024 (Runner Up)  
 
 ---
 
@@ -29,9 +29,9 @@
 - **Frontend:** React.js, Tailwind CSS, Bootstrap, TypeScript, Redux  
 - **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs  
 - **Database:** MongoDB, MySQL  
-- **AI/ML:** Python, OpenCV, TensorFlow, PyTorch, Transformers, HuggingFace, NLP  
+- **AI/ML:** Python, OpenCV, TensorFlow, PyTorch, Transformers, HuggingFace, NLP, Numpy, Pandas  
 - **Blockchain:** Solana, Ethereum, Rust, Solidity, Web3.js, IPFS  
-- **Tools:** Git, Postman, XAMPP, Docker, VS Code, Jupyter, Anaconda  
+- **Tools:** Git, Postman, XAMPP, VS Code, Jupyter, Anaconda  
 
 ---
 
@@ -63,10 +63,10 @@ Voice-controlled smart assistant built with Rasa, Python, TTS, and speech recogn
 
 ### 🏆 Achievements
 
-- 🥈 **2nd Place – MegaHack 2024**  
+- 🥈 **Runner Up – MegaHack 2024(National Level Hackathon)**  
   IoT energy meter system with blockchain-based payments
 
-- 🥉 **3rd Position – XZIBIT 2023**  
+- 🥉 **Second Runner Up – XZIBIT 2023**  
   Smart energy tracking & automated billing platform
 
 ---
